@@ -28,10 +28,10 @@ These are native JavaScript ES modules, so the browser can run them without fram
 
 ## Independent GitHub → Cloudflare deployment
 
-Target repository: `FunnyXhaXha/rrt-prompt-builder` (not created by this source package).
+Repository: https://github.com/FunnyXhaXha/rrt-prompt-builder (created; source committed to main).
 Worker name: `rrt-prompt-builder` in `wrangler.jsonc`.
 
-1. Create the new GitHub repository and push this project to `main`.
+1. The independent GitHub repository and `main` source are ready.
 2. Add repository Actions secrets `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_TOKEN` (an appropriately scoped Cloudflare deployment token). Do not put credentials in source files.
 3. The included `.github/workflows/cloudflare-deploy.yml` tests, builds and deploys on pushes to `main`; it can also be run manually.
 4. Check the successful Actions run and the public workers.dev URL reported by Cloudflare, then verify English/Chinese generation and copy on the deployed site.
