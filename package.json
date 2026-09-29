@@ -1,0 +1,11 @@
+{
+  "name": "rrt-prompt-builder",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/prompt.test.mjs",
+    "dev": "python3 -m http.server 5173 --directory dist"
+  }
+}

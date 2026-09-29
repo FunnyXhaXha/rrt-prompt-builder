@@ -1,0 +1,1 @@
+export default "Decision: Distinguish an action from a decision. A decision requires meaningful commitment among alternatives under a resource condition. A button press, movement, attack, or click is not automatically a decision. Identify alternatives, resource conditions, and what the player commits or gives up.";

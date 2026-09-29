@@ -1,0 +1,1 @@
+export default "Narrative Completion: Briefly examine whether actual decision outcomes respond to expectations concerning character, identity, relationships, plot, or theme. If those expectations are unspecified, mark the information gap. Do not add elaborate theory.";

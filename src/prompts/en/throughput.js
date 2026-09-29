@@ -1,0 +1,1 @@
+export default "Throughput: Do meaningful Resource–Decision–Redemption cycles keep creating new decision states? Note repetition or stalled cycles when supported by evidence. Throughput is not APM, clicking speed, or raw action count. Do not invent a numeric score.";

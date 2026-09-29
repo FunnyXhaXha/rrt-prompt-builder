@@ -1,0 +1,1 @@
+export default "Gameplay Efficiency: Explain how players use and convert resources to advance the gameplay goal. Higher efficiency is not automatically better design; consider the intended tradeoffs.";

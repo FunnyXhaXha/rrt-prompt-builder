@@ -1,0 +1,1 @@
+export default "Redemption: Trace Decision → execution through the game system → actual consequence. Then identify Resourceₜ₊₁ and how it enables, constrains, or changes the next decision. Do not stop at the immediate result.";
